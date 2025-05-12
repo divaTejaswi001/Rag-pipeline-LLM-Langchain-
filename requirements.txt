@@ -1,0 +1,10 @@
+langchain
+qdrant-client
+sentence-transformers
+ollama
+gradio
+PyPDF2
+tiktoken
+langchain-ollama
+langchain-huggingface
+langchain-qdrant
