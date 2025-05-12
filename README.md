@@ -15,3 +15,5 @@ docker run -p 6333:6333 -p 6444:6444 qdrant/qdrant
 ollama run llama3:2
 
 5. Run all the cells
+
+Can use the sample india.pdf to upload
